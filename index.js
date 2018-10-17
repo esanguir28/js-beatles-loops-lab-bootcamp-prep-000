@@ -1,9 +1,6 @@
 var musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
-
-theBeatlesPlay(musicians, instruments); 
-
 function theBeatlesPlay(musicians, instruments) {
   var newArr = []; 
   for(var i =0; i < musicians.length; i++) {
@@ -22,7 +19,6 @@ function johnLennonFacts(arr) {
   return result; 
  }
 
- johnLennonFacts(facts); 
  
  function iLoveTheBeatles(number) { 
   let newArray = []; 
