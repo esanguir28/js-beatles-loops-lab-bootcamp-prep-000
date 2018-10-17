@@ -29,4 +29,4 @@ function johnLennonFacts(arr) {
 let newArray = []; 
   do {
   newArray.push(`I love the Beatles!`);
-number++;
+  number++;
